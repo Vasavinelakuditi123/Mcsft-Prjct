@@ -9,7 +9,7 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 PROJECT DEMO URL: https://vijaynani56.github.io/Mcsft-Prjct/
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/vijaynani56/Mcsft-Prjct/
 
 
 
