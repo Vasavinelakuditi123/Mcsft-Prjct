@@ -81,9 +81,12 @@ Health Care is our project.Now a days so many people are suffering with health p
 
 
 # About Us
-i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
+We are BTech pursuing Students,from 3rd year we considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+-  N Vasavi
+-  U Vijay Ram
+-  M renuka  
+-  G Srinadh
 
 
 # Privacy Policies 
