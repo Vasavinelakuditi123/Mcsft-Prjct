@@ -4,7 +4,7 @@
 
 AZURE LINK : https://witty-island-0da5d2c00.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtu.be/cXQGm8993Vg
 
 PROJECT DEMO URL: https://vijaynani56.github.io/Mcsft-Prjct/
 
