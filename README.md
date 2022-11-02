@@ -85,8 +85,9 @@ Health Care is our project.Now a days so many people are suffering with health p
 We are BTech pursuing Students,from 3rd year we considered this as problem as we facing the same situtaion regularly.
 
 -  N Vasavi
--  U Vijay Ram
--  M renuka  
+
+-  M renuka
+
 -  G Srinadh
 
 
