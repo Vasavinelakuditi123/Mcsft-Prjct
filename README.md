@@ -2,7 +2,7 @@
 
 
 
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+AZURE LINK : https://witty-island-0da5d2c00.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
