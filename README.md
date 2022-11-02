@@ -15,7 +15,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/vijaynani56/Mcsft-Prjct/
 
 
 
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+Health Care is our project.Now a days so many people are suffering with health problems.So for people this website is useful and it will take less time in processing and they can take the appointment in our website through online process.
 
 # Features
 -  Good UI
