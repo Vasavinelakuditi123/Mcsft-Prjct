@@ -6,10 +6,10 @@ AZURE LINK : https://witty-island-0da5d2c00.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/cXQGm8993Vg
 
-PROJECT DEMO URL: https://vijaynani56.github.io/Mcsft-Prjct/
+PROJECT DEMO URL: https://vasavinelakuditi123.github.io/Mcsft-Prjct/
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/vijaynani56/Mcsft-Prjct/
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/vasavinelakuditi123/Mcsft-Prjct/
 
 
 
